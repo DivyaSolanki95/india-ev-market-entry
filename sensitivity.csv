@@ -1,0 +1,8 @@
+Scenario,2032 Penetration,2032 Our Share of SAM,2032 Revenue (USD M)
+Base Case,32%,3.5%,303.0
+Policy Bull (subsidy returns),36%,3.5%,341.0
+Policy Bear (no subsidy + cost inflation),25%,3.5%,237.0
+Execution Bull (strong JV/distribution),32%,6.0%,520.0
+Execution Bear (weak distribution),32%,1.5%,130.0
+Full Bull (both favorable),36%,6.0%,585.0
+Full Bear (both unfavorable),25%,1.5%,102.0
