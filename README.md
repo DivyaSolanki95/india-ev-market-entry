@@ -11,7 +11,7 @@ Built from scratch using real public data (no Kaggle/pre-made datasets) — gove
 - **Question:** Should the entrant go in, and through what entry mode?
 - **Answer:** **Conditional GO** — enter via joint venture, sequenced through the B2B/fleet segment before consumer retail. A 5-year financial model + sensitivity analysis shows outcomes are ~4x more sensitive to execution quality than to policy/subsidy risk.
 
-![Market sizing funnel](charts/chart_funnel.png)
+ ![Market sizing funnel](chart_funnel.png) 
 
 ## What's in this repo
 
@@ -21,7 +21,7 @@ Built from scratch using real public data (no Kaggle/pre-made datasets) — gove
 | `India_EV_Market_Entry_Deck.pptx` | 9-slide presentation version, ready to present |
 | `market_entry_model.py` | Python model: bottom-up TAM→SAM→SOM market sizing, 5-year revenue forecast, two-lever sensitivity analysis. Run with `python3 market_entry_model.py` |
 | `base_case.csv` / `sensitivity.csv` | Model outputs |
-| `charts/` | All 4 charts as standalone PNGs |
+| `charts/` | chart_funnel.png, chart_competitive.png, chart_revenue.png, chart_sensitivity.png|
 
 ## Method
 
